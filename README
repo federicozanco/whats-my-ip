@@ -1,0 +1,7 @@
+What's My IP
+
+Description
+Fetches and prints external IP address of the machine where the plugin is 
+running.
+By default the URL used is http://checkip.dyndns.org but you can change it in
+the plugin's settings adding a regex to parse the html retrieved.
